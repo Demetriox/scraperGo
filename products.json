@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Champú sólido",
+        "price": "$300,00",
+        "imageURL": ""
+    },
+    {
+        "name": "Acondicionador sólido",
+        "price": "$300,00",
+        "imageURL": ""
+    },
+    {
+        "name": "Jabón facial",
+        "price": "$120,00",
+        "imageURL": ""
+    },
+    {
+        "name": "Aceite Puro de Rosa Mosqueta 30 ml + Jabón facial de regalo",
+        "price": "$750,00",
+        "imageURL": ""
+    },
+    {
+        "name": "Aceite Puro de Rosa Mosqueta 15 ml",
+        "price": "$450,00",
+        "imageURL": ""
+    },
+    {
+        "name": "Trío sólido",
+        "price": "$600,00",
+        "imageURL": ""
+    },
+    {
+        "name": "Kit total",
+        "price": "$1.250,00",
+        "imageURL": ""
+    },
+    {
+        "name": "Dúo sólido",
+        "price": "$500,00",
+        "imageURL": ""
+    }
+]
